@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{985C5D20-E7FE-4666-94F6-C82F0B97CA45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>Ajedrez</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MADERA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MARMOL.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chocolate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gris oscuro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024x1024-roble-oscuro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_0557.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Textura de madera-911413.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-de-madera-apple-3913.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-madera-marron.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Juntas-rayas-textura-de-fondo-de-madera-900x14401.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H1555_ST15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peon_negro_2 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arfil negro 2.png" />
+    <None Include="Resources\Peon Negro.png" />
+    <None Include="Resources\Arfil Blanco.png" />
+    <None Include="Resources\Arfil Blanco1.png" />
+    <None Include="Resources\Caballo negro.png" />
+    <None Include="Resources\Caballo Blanco.png" />
+    <None Include="Resources\Peon Negro1.png" />
+    <None Include="Resources\Peon Blanco.png" />
+    <None Include="Resources\Peon Blanco1.png" />
+    <None Include="Resources\Reina Blanca.png" />
+    <None Include="Resources\Reina Negra.png" />
+    <None Include="Resources\Rey negro.png" />
+    <None Include="Resources\Rey Blanco.png" />
+    <Content Include="Piezas\Arfil Blanco.png" />
+    <Content Include="Piezas\Arfil negro 2.png" />
+    <Content Include="Piezas\Caballo Blanco.png" />
+    <Content Include="Piezas\Caballo negro.png" />
+    <Content Include="Piezas\Peon Blanco.png" />
+    <Content Include="Piezas\Peon Negro.png" />
+    <Content Include="Piezas\Reina Blanca.png" />
+    <Content Include="Piezas\Reina Negra.png" />
+    <Content Include="Piezas\Rey Blanco.png" />
+    <Content Include="Piezas\Rey negro.png" />
+    <Content Include="Piezas\Torre Blanca.png" />
+    <Content Include="Piezas\Torre negra.png" />
+    <None Include="Resources\Madera Clara.png" />
+    <None Include="Resources\Madera Oscura.png" />
+    <None Include="Resources\Madera fondo oscuro.png" />
+    <None Include="Resources\Sin título-21.png" />
+    <Content Include="Resources\textura madera 2 clara base.jpg" />
+    <Content Include="Resources\textura madera 2 clara base1.jpg" />
+    <None Include="Resources\peon_negro_2 %281%292.png" />
+    <None Include="Resources\peon_negro_2 %281%29.png" />
+    <None Include="Resources\Torre Blanca.png" />
+    <None Include="Resources\Torre negra.png" />
+    <Content Include="Resources\torre.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,25 @@
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.pdb
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.exe
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.pdb
+C:\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\WindowsFormsApplication1.Ajedrez.resources
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.exe
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.pdb
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.pdb
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.csprojResolveAssemblyReference.cache
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\WindowsFormsApplication1.Ajedrez.resources
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\respaldo gary\Todo Gary 2\Disco Local\Gary 11-F\Estructura de Datos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.csproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.exe
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.pdb
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.pdb
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\obj\x86\Debug\WindowsFormsApplication1.Ajedrez.resources
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fabian\Desktop\sexto\Proyectos\Ajedrez\Ajedrez\obj\x86\Debug\Ajedrez.csproj.GenerateResource.Cache
